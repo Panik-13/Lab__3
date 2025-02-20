@@ -47,38 +47,38 @@ body {
             }
 
 #useful-links {
-    background-color: #000; /* Цвет фона */
+    background-color: #000; /* Р¦РІРµС‚ С„РѕРЅР° */
     padding: 20px;
-    color: white; /* Цвет текста */
-    text-align: center; /* Выравнивание текста по центру */
-    margin-top: 20px; /* Отступ сверху */
-    width: 100%; /* Ширина на всю страницу */
-    position: relative; /* Для позиционирования */
-    left: 0; /* Сдвигаем влево */
-    right: 0; /* Сдвигаем вправо */
+    color: white; /* Р¦РІРµС‚ С‚РµРєСЃС‚Р° */
+    text-align: center; /* Р’С‹СЂР°РІРЅРёРІР°РЅРёРµ С‚РµРєСЃС‚Р° РїРѕ С†РµРЅС‚СЂСѓ */
+    margin-top: 20px; /* РћС‚СЃС‚СѓРї СЃРІРµСЂС…Сѓ */
+    width: 100%; /* РЁРёСЂРёРЅР° РЅР° РІСЃСЋ СЃС‚СЂР°РЅРёС†Сѓ */
+    position: relative; /* Р”Р»СЏ РїРѕР·РёС†РёРѕРЅРёСЂРѕРІР°РЅРёСЏ */
+    left: 0; /* РЎРґРІРёРіР°РµРј РІР»РµРІРѕ */
+    right: 0; /* РЎРґРІРёРіР°РµРј РІРїСЂР°РІРѕ */
 }
 
     #useful-links h3 {
-        margin-bottom: 10px; /* Отступ между заголовком и списком */
+        margin-bottom: 10px; /* РћС‚СЃС‚СѓРї РјРµР¶РґСѓ Р·Р°РіРѕР»РѕРІРєРѕРј Рё СЃРїРёСЃРєРѕРј */
     }
 
     #useful-links ul {
-        list-style-type: none; /* Убираем маркеры списка */
-        padding: 0; /* Убираем отступы */
+        list-style-type: none; /* РЈР±РёСЂР°РµРј РјР°СЂРєРµСЂС‹ СЃРїРёСЃРєР° */
+        padding: 0; /* РЈР±РёСЂР°РµРј РѕС‚СЃС‚СѓРїС‹ */
     }
 
         #useful-links ul li {
-            margin: 5px 0; /* Междустрочный интервал */
+            margin: 5px 0; /* РњРµР¶РґСѓСЃС‚СЂРѕС‡РЅС‹Р№ РёРЅС‚РµСЂРІР°Р» */
         }
 
             #useful-links ul li a {
-                color: white; /* Цвет текста ссылок */
-                text-decoration: none; /* Убираем подчеркивание */
-                font-weight: bold; /* Жирный шрифт для ссылок */
+                color: white; /* Р¦РІРµС‚ С‚РµРєСЃС‚Р° СЃСЃС‹Р»РѕРє */
+                text-decoration: none; /* РЈР±РёСЂР°РµРј РїРѕРґС‡РµСЂРєРёРІР°РЅРёРµ */
+                font-weight: bold; /* Р–РёСЂРЅС‹Р№ С€СЂРёС„С‚ РґР»СЏ СЃСЃС‹Р»РѕРє */
             }
 
                 #useful-links ul li a:hover {
-                    text-decoration: underline; /* Подчеркивание при наведении */
+                    text-decoration: underline; /* РџРѕРґС‡РµСЂРєРёРІР°РЅРёРµ РїСЂРё РЅР°РІРµРґРµРЅРёРё */
                 }
 
 
@@ -171,18 +171,18 @@ section {
     border: 1px solid #ddd;
     border-radius: 5px;
     padding: 15px;
-    margin: 15px auto; /* Центрирование по горизонтали */
+    margin: 15px auto; /* Р¦РµРЅС‚СЂРёСЂРѕРІР°РЅРёРµ РїРѕ РіРѕСЂРёР·РѕРЅС‚Р°Р»Рё */
     background-color: #fff;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     flex: 0 0 90%;
     max-width: 1000px;
-    position: relative; /* Относительное позиционирование для размещения даты */
+    position: relative; /* РћС‚РЅРѕСЃРёС‚РµР»СЊРЅРѕРµ РїРѕР·РёС†РёРѕРЅРёСЂРѕРІР°РЅРёРµ РґР»СЏ СЂР°Р·РјРµС‰РµРЅРёСЏ РґР°С‚С‹ */
 }
 
 .review-header {
     display: flex;
     justify-content: space-between;
-    align-items: center; /* Выравнивание по центру по вертикали */
+    align-items: center; /* Р’С‹СЂР°РІРЅРёРІР°РЅРёРµ РїРѕ С†РµРЅС‚СЂСѓ РїРѕ РІРµСЂС‚РёРєР°Р»Рё */
 }
 
 .review-author {
@@ -190,20 +190,20 @@ section {
 }
 
 .review-date {
-    position: absolute; /* Абсолютное позиционирование для перемещения даты */
-    right: 15px; /* Отступ справа */
-    bottom: 15px; /* Отступ снизу */
+    position: absolute; /* РђР±СЃРѕР»СЋС‚РЅРѕРµ РїРѕР·РёС†РёРѕРЅРёСЂРѕРІР°РЅРёРµ РґР»СЏ РїРµСЂРµРјРµС‰РµРЅРёСЏ РґР°С‚С‹ */
+    right: 15px; /* РћС‚СЃС‚СѓРї СЃРїСЂР°РІР° */
+    bottom: 15px; /* РћС‚СЃС‚СѓРї СЃРЅРёР·Сѓ */
     font-size: 0.9em;
     color: #777;
 }
 
 .review-rating {
-    color: #ffcc00; /* Цвет для рейтинга */
+    color: #ffcc00; /* Р¦РІРµС‚ РґР»СЏ СЂРµР№С‚РёРЅРіР° */
 }
 
 .review-content {
-    margin-top: 10px; /* Отступ для текста отзыва */
-    text-align: left; /* Выравнивание текста по ширине */
+    margin-top: 10px; /* РћС‚СЃС‚СѓРї РґР»СЏ С‚РµРєСЃС‚Р° РѕС‚Р·С‹РІР° */
+    text-align: left; /* Р’С‹СЂР°РІРЅРёРІР°РЅРёРµ С‚РµРєСЃС‚Р° РїРѕ С€РёСЂРёРЅРµ */
 }
 
 
@@ -289,4 +289,25 @@ form {
     width: 220px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     transition: box-shadow 0.3s;
+}
+
+@media (max-width: 768px) {
+    .product {
+        flex: 1 1 calc(48% - 20px); /* Р”РІРµ РєР°СЂС‚РѕС‡РєРё РІ СЃС‚СЂРѕРєРµ РЅР° РјР°Р»РµРЅСЊРєРёС… СЌРєСЂР°РЅР°С… */
+        max-width: calc(48% - 20px);
+    }
+}
+
+@media (min-width: 768px) and (max-width: 960px) {
+    .product {
+        flex: 1 1 calc(32% - 20px); /* РўСЂРё РєР°СЂС‚РѕС‡РєРё РІ СЃС‚СЂРѕРєРµ РЅР° СЃСЂРµРґРЅРёС… СЌРєСЂР°РЅР°С… */
+        max-width: calc(32% - 20px);
+    }
+}
+
+@media (min-width: 960px) {
+    .product {
+        flex: 1 1 calc(23% - 20px); /* Р§РµС‚С‹СЂРµ РєР°СЂС‚РѕС‡РєРё РІ СЃС‚СЂРѕРєРµ РЅР° Р±РѕР»СЊС€РёС… СЌРєСЂР°РЅР°С… */
+        max-width: calc(23% - 20px);
+    }
 }
